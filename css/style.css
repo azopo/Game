@@ -1,0 +1,26 @@
+.header__wrapper {
+  margin: 0 auto;
+  max-width: 1000px;
+  text-align: center;
+  font-size: 20px;
+}
+
+.header__info {
+  font-weight: bold;
+}
+.main__wrapper {
+}
+#main__container {
+  width: 300px;
+  height: 350px;
+  margin: 70px auto;
+  font-size: 40px;
+  text-align: center;
+}
+#main__container > div {
+  width: 50px;
+  height: 50px;
+  float: left;
+  border: 1px solid black;
+  box-sizing: border-box;
+}
